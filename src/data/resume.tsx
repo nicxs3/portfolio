@@ -11,7 +11,7 @@ export const DATA = {
     "Aspiring Software Engineer.",
   summary:
     "Currently at University of California, Santa Barbara studying Computer Engineering. Looking for internships!",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpeg",
   skills: [
     "React",
     "Next.js",
