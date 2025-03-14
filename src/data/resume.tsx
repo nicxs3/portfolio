@@ -101,7 +101,7 @@ export const DATA = {
       badges: [],
       location: "Santa Barbara, CA",
       title: "Undergraduate Research Assistant",
-      logoUrl: "/archlab.png",
+      logoUrl: "/ucsb.jpg",
       start: "April 2024",
       end: "June 2024",
       description:
