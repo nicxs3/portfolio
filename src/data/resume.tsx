@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Nic Santos",
   initials: "NS",
-  url: "https://dillion.io",
+  url: "https://nicsantos.vercel.app",
   location: "South San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
@@ -19,7 +19,6 @@ export const DATA = {
     "Node.js",
     "Python",
     "Go",
-    "Postgres",
     "Docker",
     "Kubernetes",
     "Java",
