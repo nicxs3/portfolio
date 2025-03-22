@@ -111,7 +111,7 @@ export const DATA = {
     {
       school: "University of California, Santa Barbara",
       href: "https://www.ucsb.edu",
-      degree: "Bachelor's of Science, Computer Engineering",
+      degree: "Bachelor of Science in Computer Engineering",
       logoUrl: "/seal.png",
       start: "2023",
       end: "2027",
