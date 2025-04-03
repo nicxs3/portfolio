@@ -138,7 +138,8 @@ export const DATA = {
 
       image: "",
       video:
-        "https://youtu.be/hVTgFrld8cU",
+        "ledcube.mp4",
+      links: [],
     },
   ],
 };
