@@ -120,20 +120,15 @@ export const DATA = {
   projects: [
     {
       title: "LED Infinity Cube",
-      href: "https://chatcollect.com",
+      href: "",
       dates: "Jan 2024 - March 2024",
       active: true,
       description:
-        "Wi",
+        "Created an interactive LED infinity cube powered by Arduino, integrating an accelerometer to adjust light patterns based on motion. Programmed dynamic LED sequences in embedded C, enabling real-time responsiveness. Earned the \"Most Artistic\" award for its creative use of sensor-driven lighting effects and design",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "C",
+        "Arduino",
+        "Tinkercad",
       ],
 
       image: "",
