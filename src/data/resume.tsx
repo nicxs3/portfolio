@@ -124,7 +124,7 @@ export const DATA = {
       dates: "Jan 2024 - March 2024",
       active: true,
       description:
-        "Created an interactive LED infinity cube powered by Arduino, integrating an accelerometer to adjust light patterns based on motion. Programmed dynamic LED sequences in embedded C, enabling real-time responsiveness. Earned the \"Most Artistic\" award for its creative use of sensor-driven lighting effects and design",
+        "Created an interactive LED infinity cube powered by Arduino, integrating an accelerometer to adjust light patterns based on motion. Programmed dynamic LED sequences in embedded C, enabling real-time responsiveness. Earned the \"Most Artistic\" award for its creative use of sensor-driven lighting effects and design.",
       technologies: [
         "C",
         "Arduino",
