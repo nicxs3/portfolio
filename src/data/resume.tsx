@@ -136,5 +136,18 @@ export const DATA = {
         "ledcube.mp4",
       links: [],
     },
+    {
+      title: "NBA AI",
+      href: "",
+      dates: "March 2024 - Present",
+      active: true,
+      description:
+        "In Progress...",
+      technologies: [],
+      image: "",
+      video:
+        "spinbball.mp4",
+      links: [],
+    }
   ],
 };
