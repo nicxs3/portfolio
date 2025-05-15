@@ -21,8 +21,8 @@ export const DATA = {
     "SQL",
     "Java",
     "C++",
-    "C",
-    "MATLAB",
+    "Docker",
+    "PyTorch"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -80,7 +80,7 @@ export const DATA = {
       start: "September 2024",
       end: "Present",
       description:
-        "Creating algorithms and market mechanisms to automate the TA-Course allocation problem for the CS Department.",
+        "Creating algorithms and market mechanisms to automate the TA-Course allocation problem for the CS Department. Part of the Early Research Scholars Program.",
     },
     {
       company: "Cypress Lawn",
@@ -139,7 +139,7 @@ export const DATA = {
     {
       title: "NBA AI",
       href: "",
-      dates: "March 2024 - Present",
+      dates: "May 2025 - Present",
       active: true,
       description:
         "In Progress...",
